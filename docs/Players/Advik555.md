@@ -31,6 +31,7 @@ tags:
 - Flown 46+ million blocks the server
 - Discovered /name exploit (not the first to find it but did find it independently)
 - Found a modified version of the item frame dupe at the time when normal frame dupe didnt work
+- Got hacked my the seventh seals 💀
 
 ## Clans
 - 555 clan
